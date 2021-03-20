@@ -17,4 +17,5 @@ Currently I installed Cataline just cause of the abundance of documentation and 
 # About
 My Thinkpad is a X1 carbon 2015 model, AKA X1C3, AKA ThinkPad X1 Carbon Gen3 2015 Model, everything is stock, no modifications, (I changed the hinges once, but I don't think that counts as modification...)
 
+Please let me know if you encounter any issues. i'll be trying to keep this updated as well , Cheers!
 
